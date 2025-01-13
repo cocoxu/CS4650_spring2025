@@ -11,14 +11,14 @@ Jan 6
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 Jan 8
-: [Machine Learning Review - linear classification](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-a.pdf)
+: [Machine Learning Review - linear classification](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-a.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-a-notes.pdf))
   : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 9
 : **[Problem Set 0 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS0.pdf)**
 
 Jan 13
-: [Machine Learning Review - logistic regression, perceptron, SVM](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-b.pdf)
+: [Machine Learning Review - logistic regression, perceptron, SVM](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-b.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-b-notes.pdf))
   : [Eisenstein 2.0-2.5, 4.1, 4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 15
