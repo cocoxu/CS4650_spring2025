@@ -35,6 +35,7 @@ Jan 22
 : [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS4650_spring2025/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
-
+Jan 28
+: **[Problem Set 1 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS1.pdf)**
 
 
