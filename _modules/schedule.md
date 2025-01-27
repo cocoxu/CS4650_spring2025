@@ -28,12 +28,6 @@ Jan 15
 Jan 17
 : **[Project 0 due](https://colab.research.google.com/drive/1gsvmp2zygSz4dWeZAzCY9FIMxLB94fLO?usp=sharing)**
 
-Jan 20
-: no class - holiday
-
-Jan 22
-: no class - snow day
-
 Jan 27
 : [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS4650_spring2025/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
