@@ -32,10 +32,23 @@ Jan 20
 : no class - holiday
 
 Jan 22
+: no class - snow day
+
+Jan 27
 : [Neural Networks - Feedforward, optimization](https://cocoxu.github.io/CS4650_spring2025/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
-Jan 28
+Jan 29
+: Word Embeddings
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
+
+Jan 30
 : **[Problem Set 1 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS1.pdf)**
 
 
+Feb 3
+: Sequence Models - HMM, Viterbi
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+Feb 7
+: **[Project 1 due](https://colab.research.google.com/drive/1DD9olruntK2bMIVoz5QJ_YGvKQhzSaAh?usp=sharing)**
