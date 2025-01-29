@@ -33,7 +33,7 @@ Jan 27
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf), [J.G. Makin - Backpropagation](https://cocoxu.github.io/CS4650_spring2025/slides/backprop.pdf)
 
 Jan 29
-: Word Embeddings
+: [Word Embeddings](https://cocoxu.github.io/CS4650_spring2025/slides/lec5-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
 Jan 30
