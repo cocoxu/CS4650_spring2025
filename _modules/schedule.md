@@ -51,3 +51,26 @@ Feb 5
 Feb 7
 : **[Project 1 due](https://colab.research.google.com/drive/1DD9olruntK2bMIVoz5QJ_YGvKQhzSaAh?usp=sharing)**
 
+Feb 10
+: [Recurrent Neural Networks](https://cocoxu.github.io/CS4650_spring2025/slides/lec8-rnn.pdf) 
+  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+
+Feb 12
+: Guest Lecture - Multilingual Multi-Cultural LLMs (Tarek Naous)
+
+Feb 17
+: Convolutional Neural Networks + Neural CRFs
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
+
+Feb 19
+: Encoder-Decoder + MT
+  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+March 4
+: **[Problem Set 2 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS2.pdf)**
+
+
+
+
+
+
