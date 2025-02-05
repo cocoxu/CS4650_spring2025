@@ -41,8 +41,13 @@ Jan 30
 
 
 Feb 3
-: Sequence Models - HMM, Viterbi
+: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS4650_spring2025/slides/lec6-seq1.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec6-seq1-notes.pdf))
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
+Feb 5
+: [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2025/slides/lec7-seq2.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec7-seq2-notes.pdf))
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 7
 : **[Project 1 due](https://colab.research.google.com/drive/1DD9olruntK2bMIVoz5QJ_YGvKQhzSaAh?usp=sharing)**
+
