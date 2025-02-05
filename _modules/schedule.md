@@ -66,11 +66,11 @@ Feb 19
 : Encoder-Decoder + MT
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Feb 21
+: **[Project 2 due](https://colab.research.google.com/drive/1GEv28uWrvaChL-ynyyrGQcfsyldmQp7M?usp=sharing)**
+
 March 4
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS2.pdf)**
-
-
-
 
 
 
