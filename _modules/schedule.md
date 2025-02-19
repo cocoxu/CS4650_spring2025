@@ -63,7 +63,7 @@ Feb 17
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
 Feb 19
-: Encoder-Decoder + MT
+: [Encoder-Decoder + MT](https://cocoxu.github.io/CS4650_spring2025/slides/lec10-seq2seq.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 21
