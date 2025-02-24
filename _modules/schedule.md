@@ -71,15 +71,16 @@ Feb 21
 : **[Project 2 due](https://colab.research.google.com/drive/1GEv28uWrvaChL-ynyyrGQcfsyldmQp7M?usp=sharing)**
 
 Feb 24
-: [Attention+ Tokenization](https://cocoxu.github.io/CS7650_spring2024/slides/lec11-attention-nmt.pdf)
+: [Attention+ Tokenization](https://cocoxu.github.io/CS4650_spring2025/slides/lec11-attention-nmt.pdf)
   : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
 
 Feb 26
-: [Transformer](https://cocoxu.github.io/CS7650_spring2024/slides/lec12-transformer.pdf), [Course Project](https://cocoxu.github.io/CS7650_spring2024/slides/lec0-project.pdf)
+: [Transformer]
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 March 4
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS2.pdf)**
 
-
+March 24
+: **[Project Proposal due](https://cocoxu.github.io/CS4650_spring2025/slides/lec0-project.pdf)**
 
