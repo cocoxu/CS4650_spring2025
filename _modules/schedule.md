@@ -75,7 +75,7 @@ Feb 24
   : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
 
 Feb 26
-: [Transformer]
+: [Transformer](https://cocoxu.github.io/CS4650_spring2025/slides/lec12-transformer.pdf)
   : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 March 4
