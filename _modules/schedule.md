@@ -12,7 +12,7 @@ Jan 6
   
 Jan 8
 : [Machine Learning Review - linear classification](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-a.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec2-ml-a-notes.pdf))
-  : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
 Jan 9
 : **[Problem Set 0 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS0.pdf)**
@@ -42,7 +42,7 @@ Jan 30
 
 Feb 3
 : [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS4650_spring2025/slides/lec6-seq1.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec6-seq1-notes.pdf))
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 17](https://web.stanford.edu/~jurafsky/slp3/17.pdf), [J+M A](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
 Feb 5
 : [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2025/slides/lec7-seq2.pdf) ([notes](https://cocoxu.github.io/CS4650_spring2025/slides/lec7-seq2-notes.pdf))
@@ -53,7 +53,7 @@ Feb 7
 
 Feb 10
 : [Recurrent Neural Networks](https://cocoxu.github.io/CS4650_spring2025/slides/lec8-rnn.pdf) 
-  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
+  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb 12
 : [Guest Lecture - Multilingual Multi-Cultural LLMs - by Tarek Naous](https://cocoxu.github.io/CS4650_spring2025/slides/Cultural_Biases_in_LLMs.pdf)
@@ -76,7 +76,7 @@ Feb 24
 
 Feb 26
 : [Transformer](https://cocoxu.github.io/CS4650_spring2025/slides/lec12-transformer.pdf)
-  : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
+  : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
 March 4
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS2.pdf)**
