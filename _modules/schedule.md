@@ -78,9 +78,9 @@ Feb 26
 : [Transformer](https://cocoxu.github.io/CS4650_spring2025/slides/lec12-transformer.pdf)
   : [J+M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](https://nlp.seas.harvard.edu/annotated-transformer/) 
 
-March 4
+Mar 4
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_spring2025_projects/blob/master/CS4650_spring2025_PS2.pdf)**
 
-March 24
+Mar 24
 : **[Project Proposal due](https://cocoxu.github.io/CS4650_spring2025/slides/lec0-project.pdf)**
 
